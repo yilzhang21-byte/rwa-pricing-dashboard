@@ -2,7 +2,7 @@
 
 Real-time dashboard for OUSG (treasury token) and MPL (governance token).
 
-**Live demo**:
+**Live demo**: https://rwa-pricing-dashboard-qr9qe8adewf7pjkwm49tjz.streamlit.app/
 
 ## What it does
 - Monitors gap between market price and NAV
